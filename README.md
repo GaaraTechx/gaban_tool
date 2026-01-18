@@ -15,7 +15,7 @@ pkg update && pkg upgrade -y
 pkg install python git -y
 
 # Téléchargement du script
-git clone [https://github.com/GaaraTechx/gaban_tool](https://github.com/GaaraTechx/gaban_tool)
+git clone https://github.com/GaaraTechx/gaban_tool
 
 # Accès au dossier
 cd gaban_tool
